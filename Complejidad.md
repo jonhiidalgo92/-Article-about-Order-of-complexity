@@ -23,17 +23,17 @@ cout<<actual<<endl;  (#4 )
 }
 
 
-1. Tomando en cuenta la declaracion del entero (i) podemos decir que el orden de complejidad es (1), para las comparaciones utilizadas es (n+1), y el aumento de la variable que viene siento (n). El total de la suma de la complejidad en este algoritmo se dice que es lineal, ya que sumando todo nos daría 2n+2 y al simplificar utilizando aritmética de la notación O grande nos quedaría que tiene un orden lineal (n).
+1. Taking into account the declaration of the integer (i) we can say that the order of complexity is (1), for the comparisons used it is (n + 1), and the increase in the variable that I feel is (n). The total of the sum of the complexity in this algorithm is said to be linear, since adding everything would give us 2n + 2 and by simplifying using arithmetic of the large O notation we would have a linear order (n).
 
-2. Las comparaciones tiene un orden constante de (1).
+2. The comparisons have a constant order of (1).
 
-3. Tendría un Orden constante de (1)
+3. It would have a constant Order of (1).
 
-4. Tendría un orden constante de (1)
+4. It would have a constant order of (1).
 
 
-El Resumen a la suma de todas las constantes y sumando también el orden lineal del ciclo (for) se tiene como conclusión al final después de emplear aritmética que el orden de complejidad es de O(n).
+The Summary to the sum of all constants and also adding the linear order of the cycle (for) is concluded at the end after using arithmetic that the order of complexity is O (n).
 
-Imagen Complementaria al entendimiento del orden de complejidad como también el numero de iteraciones que conlleva.
 
-[Mas Informacion Acerca de los diferentes Ordenes de Complejidad](https://www.campusmvp.es/recursos/image.axd?picture=Complejidad-Algoritmica.png)
+####Complementary image to the understanding of the order of complexity as well as the number of iterations that it entails.
+[Ordenes de Complejidad](https://www.campusmvp.es/recursos/image.axd?picture=Complejidad-Algoritmica.png)
