@@ -35,5 +35,5 @@ cout<<actual<<endl;  (#4 )
 The Summary to the sum of all constants and also adding the linear order of the cycle (for) is concluded at the end after using arithmetic that the order of complexity is O (n).
 
 
-####Complementary image to the understanding of the order of complexity as well as the number of iterations that it entails.
+#### Complementary image to the understanding of the order of complexity as well as the number of iterations that it entails.
 [Ordenes de Complejidad](https://www.campusmvp.es/recursos/image.axd?picture=Complejidad-Algoritmica.png)
