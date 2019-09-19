@@ -36,4 +36,4 @@ El Resumen a la suma de todas las constantes y sumando también el orden lineal 
 
 Imagen Complementaria al entendimiento del orden de complejidad como también el numero de iteraciones que conlleva.
 
-[Mas Informacion Acerca de los diferentes Ordenes de Complejidad](https://www.cs.us.es/)
+[Mas Informacion Acerca de los diferentes Ordenes de Complejidad](https://www.campusmvp.es/recursos/image.axd?picture=Complejidad-Algoritmica.png)
